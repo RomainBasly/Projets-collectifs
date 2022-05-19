@@ -1,0 +1,21 @@
+body {
+    /* background-color : #ffafcc; */
+    color : #495057;
+    width : 600px;
+    height: 300px;
+}
+
+
+#button_image {
+    background-image: url("") ;
+    background-repeat: no-repeat ; 
+    background-size: cover;
+    cursor: pointer;
+    width: 300px;
+    height: 200px;
+    border: none;
+  }
+
+  #url_input{
+      width: 300px;
+  }
